@@ -100,7 +100,7 @@ export default class IndecisionApp extends React.Component {
     }
     render() {
         //const title='Indecision';
-        const subtitle='Put your life in the hands of a computer';
+        const subtitle='Manage your List';
         //const options=['Thing1','Thing2','Thing3'];
         return (
             <div>
